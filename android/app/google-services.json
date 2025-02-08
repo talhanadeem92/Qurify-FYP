@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "571665329297",
+    "project_id": "quranfyp-723e1",
+    "storage_bucket": "quranfyp-723e1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571665329297:android:460f2103d1d2ae895c2330",
+        "android_client_info": {
+          "package_name": "com.example.myflutterapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAWv3VgwEeETXKvlFkjOs9J1Vi8bApngI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571665329297:android:5d91e811fd03e2d35c2330",
+        "android_client_info": {
+          "package_name": "com.quran.my_flutter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAWv3VgwEeETXKvlFkjOs9J1Vi8bApngI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571665329297:android:c5f945b2ec0febda5c2330",
+        "android_client_info": {
+          "package_name": "com.talhadogar.my_flutter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAWv3VgwEeETXKvlFkjOs9J1Vi8bApngI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

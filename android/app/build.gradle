@@ -1,0 +1,29 @@
+apply plugin: 'com.android.application'
+apply plugin: 'com.google.gms.google-services'  // Firebase Services Plugin
+
+android {
+    compileSdkVersion 33
+
+    defaultConfig {
+
+    applicationId "com.example.my_flutter_app" // Change this to your unique package name
+     minSdkVersion 23
+    targetSdkVersion 33
+    versionCode flutter.versionCode
+    versionName flutter.versionName
+}
+
+
+    buildTypes {
+        release {
+            signingConfig signingConfigs.release
+        }
+    }
+}
+
+dependencies {
+    implementation platform('com.google.firebase:firebase-bom:32.2.0') // Firebase BOM
+    implementation 'com.google.firebase:firebase-analytics' // Firebase Analytics
+
+    // Add other dependencies here
+}

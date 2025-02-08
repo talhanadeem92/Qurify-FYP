@@ -1,0 +1,1214 @@
+[
+    {
+        "Index":1,
+        "Arabic":"مُحَمَّدٌ",
+        "Name":"Muḥammad",
+        "Meaning":"Oft-Praised"
+    },
+    {
+        "Index":2,
+        "Arabic":"أَحْمَدٌ",
+        "Name":"Aḥmad",
+        "Meaning":"Greatest of Praisers"
+    },
+    {
+        "Index":3,
+        "Arabic":"حَامِدٌ",
+        "Name":"Ḥāmid",
+        "Meaning":"Praiser"
+    },
+    {
+        "Index":4,
+        "Arabic":"مَحْمودٌ",
+        "Name":"Maḥmūd",
+        "Meaning":"Praised One"
+    },
+    {
+        "Index":5,
+        "Arabic":"أَحِيدُ",
+        "Name":"Aḥīd",
+        "Meaning":"Repeller"
+    },
+    {
+        "Index":6,
+        "Arabic":"وَحِيدٌ",
+        "Name":"Waḥīd",
+        "Meaning":"Unique"
+    },
+    {
+        "Index":7,
+        "Arabic":"مَاحٍ",
+        "Name":"Māḥī",
+        "Meaning":"Effacer"
+    },
+    {
+        "Index":8,
+        "Arabic":"حَاشِرٌ",
+        "Name":"Ḥāshir",
+        "Meaning":"Gatherer"
+    },
+    {
+        "Index":9,
+        "Arabic":"عَاقِبٌ",
+        "Name":"ʿĀqib",
+        "Meaning":"Last in Succession"
+    },
+    {
+        "Index":10,
+        "Arabic":"طَهَ",
+        "Name":"Ṭāhā",
+        "Meaning":"Taha"
+    },
+    {
+        "Index":11,
+        "Arabic":"يَسٓ",
+        "Name":"Yāsīn",
+        "Meaning":"Yasin"
+    },
+    {
+        "Index":12,
+        "Arabic":"طَاهِرٌ",
+        "Name":"Ṭāhir",
+        "Meaning":"Pure One"
+    },
+    {
+        "Index":13,
+        "Arabic":"مُطَهَّرٌ",
+        "Name":"Muṭahhar",
+        "Meaning":"Purified"
+    },
+    {
+        "Index":14,
+        "Arabic":"طَيِّبٌ",
+        "Name":"Ṭayyib",
+        "Meaning":"Fragrant"
+    },
+    {
+        "Index":15,
+        "Arabic":"سَيِّدٌ",
+        "Name":"Sayyīd",
+        "Meaning":"Liegelord"
+    },
+    {
+        "Index":16,
+        "Arabic":"رَسُولٌ",
+        "Name":"Rasūl",
+        "Meaning":"Emissary, or Messenger"
+    },
+    {
+        "Index":17,
+        "Arabic":"نَبِيٌّ",
+        "Name":"Nabiyy",
+        "Meaning":"Prophet"
+    },
+    {
+        "Index":18,
+        "Arabic":"رَسُولُ الرَّحْمَةِ",
+        "Name":"Rasūlu r-Raḥmah",
+        "Meaning":"Emissary of Mercy"
+    },
+    {
+        "Index":19,
+        "Arabic":"قَيِّمٌ",
+        "Name":"Qayyim",
+        "Meaning":"Upright"
+    },
+    {
+        "Index":20,
+        "Arabic":"جَامِعٌ",
+        "Name":"Jāmiʿ",
+        "Meaning":"Embodier of all Virtues"
+    },
+    {
+        "Index":21,
+        "Arabic":"مُقْتَفٍ",
+        "Name":"Muqtafī",
+        "Meaning":"Successor to the Past Prophets"
+    },
+    {
+        "Index":22,
+        "Arabic":"مُقَفِّى",
+        "Name":"Muqaffī",
+        "Meaning":"Surpasser"
+    },
+    {
+        "Index":23,
+        "Arabic":"رَسُولُ الْمَلَاحِمِ",
+        "Name":"Rasūlu l-Malāḥim",
+        "Meaning":"Emissary who fought Battles"
+    },
+    {
+        "Index":24,
+        "Arabic":"رَسُولُ الرَّاحَةِ",
+        "Name":"Rasūlu r-Rāḥah",
+        "Meaning":"Emissary of Comfort"
+    },
+    {
+        "Index":25,
+        "Arabic":"كَامِلٌ",
+        "Name":"Kāmil",
+        "Meaning":"Complete"
+    },
+    {
+        "Index":26,
+        "Arabic":"إِكْلِيلٌ",
+        "Name":"Iklīl",
+        "Meaning":"Crown"
+    },
+    {
+        "Index":27,
+        "Arabic":"مُدَّثِّرٌ",
+        "Name":"Muddaththir",
+        "Meaning":"Enwrapped in His Robe"
+    },
+    {
+        "Index":28,
+        "Arabic":"مُزَّمِّلٌ",
+        "Name":"Muzzammil",
+        "Meaning":"Enwrapped in His Cloak"
+    },
+    {
+        "Index":29,
+        "Arabic":"عَبْدُ اللهِ",
+        "Name":"ʿAbdullāh",
+        "Meaning":"Slave of Allah"
+    },
+    {
+        "Index":30,
+        "Arabic":"حَبِيبُ اللهِ",
+        "Name":"Ḥabībullāh",
+        "Meaning":"Beloved of Allah"
+    },
+    {
+        "Index":31,
+        "Arabic":"صَفِيُّ اللهِ",
+        "Name":"Ṣafiyyullāh",
+        "Meaning":"One Solely Chosen by Allah"
+    },
+    {
+        "Index":32,
+        "Arabic":"نَجِّيُّ اللهِ",
+        "Name":"Najiyyullāh",
+        "Meaning":"One who had Intimate Discourse with Allah"
+    },
+    {
+        "Index":33,
+        "Arabic":"كَلِيمُ اللهِ",
+        "Name":"Kalīmullāh",
+        "Meaning":"One Addressed by Allah"
+    },
+    {
+        "Index":34,
+        "Arabic":"خَاتِمُ الْأَنْبِيَاءِ",
+        "Name":"Khatimu l-Anbiyā’",
+        "Meaning":"Seal of the Prophets"
+    },
+    {
+        "Index":35,
+        "Arabic":"خَاتِمُ الرُّسُلِ",
+        "Name":"Khātimu r-Rusul",
+        "Meaning":"Seal of the Emissaries"
+    },
+    {
+        "Index":36,
+        "Arabic":"مُحْيٍ",
+        "Name":"Muḥyī",
+        "Meaning":"Reviver"
+    },
+    {
+        "Index":37,
+        "Arabic":"مُنْجٍ",
+        "Name":"Munjī",
+        "Meaning":"Deliverer"
+    },
+    {
+        "Index":38,
+        "Arabic":"مُذَكِّرٌ",
+        "Name":"Mudhakkir",
+        "Meaning":"One Who Reminds"
+    },
+    {
+        "Index":39,
+        "Arabic":"نَاصِرٌ",
+        "Name":"Nāṣir",
+        "Meaning":"Bringer of Victory"
+    },
+    {
+        "Index":40,
+        "Arabic":"مَنْصُورٌ",
+        "Name":"Manṣūr",
+        "Meaning":"One Granted Victory"
+    },
+    {
+        "Index":41,
+        "Arabic":"نَبِيُّ الرَّحْمَةِ",
+        "Name":"Nabiyyu r-Raḥmah",
+        "Meaning":"Prophet of Mercy"
+    },
+    {
+        "Index":42,
+        "Arabic":"نَبِيُّ التَّوْبَةِ",
+        "Name":"Nabiyyu t-Tawbah",
+        "Meaning":"Prophet of Repentance"
+    },
+    {
+        "Index":43,
+        "Arabic":"حَرِيصٌ عَلَيْكُمْ",
+        "Name":"Harīṣun ʿAlaykum",
+        "Meaning":"Most Concerned for You"
+    },
+    {
+        "Index":44,
+        "Arabic":"مَعْلُومٌ",
+        "Name":"Maʿlūm",
+        "Meaning":"Known One"
+    },
+    {
+        "Index":45,
+        "Arabic":"شَهِيرٌ",
+        "Name":"Shahīr",
+        "Meaning":"Renowned"
+    },
+    {
+        "Index":46,
+        "Arabic":"شَاهِدٌ",
+        "Name":"Shāhid",
+        "Meaning":"Testifier"
+    },
+    {
+        "Index":47,
+        "Arabic":"شَهِيدٌ",
+        "Name":"Shahīd",
+        "Meaning":"Witness"
+    },
+    {
+        "Index":48,
+        "Arabic":"مَشْهُودٌ",
+        "Name":"Mashhūd",
+        "Meaning":"One Witnessed to"
+    },
+    {
+        "Index":49,
+        "Arabic":"بَشِيرٌ",
+        "Name":"Bashīr",
+        "Meaning":"Bearer of Good Tidings"
+    },
+    {
+        "Index":50,
+        "Arabic":"مُبَشِّرٌ",
+        "Name":"Mubashshir",
+        "Meaning":"Bringer of Good News"
+    },
+    {
+        "Index":51,
+        "Arabic":"نَذِيرٌ",
+        "Name":"Nadhīr",
+        "Meaning":"Warner"
+    },
+    {
+        "Index":52,
+        "Arabic":"مُنْذِرٌ",
+        "Name":"Mundhir",
+        "Meaning":"Admonisher"
+    },
+    {
+        "Index":53,
+        "Arabic":"نُورٌ",
+        "Name":"Nūr",
+        "Meaning":"Light"
+    },
+    {
+        "Index":54,
+        "Arabic":"سِرَاجٌ",
+        "Name":"Sirāj",
+        "Meaning":"Lamp"
+    },
+    {
+        "Index":55,
+        "Arabic":"مِصْبَاحٌ",
+        "Name":"Miṣbāh",
+        "Meaning":"Lantern"
+    },
+    {
+        "Index":56,
+        "Arabic":"هُدَىً",
+        "Name":"Hudā",
+        "Meaning":"Guidance"
+    },
+    {
+        "Index":57,
+        "Arabic":"مَهْدِيٌ",
+        "Name":"Mahdiyy",
+        "Meaning":"Guided"
+    },
+    {
+        "Index":58,
+        "Arabic":"مُنِيرٌ",
+        "Name":"Munīr",
+        "Meaning":"Giver of Light"
+    },
+    {
+        "Index":59,
+        "Arabic":"دَاعٍ",
+        "Name":"Dāʿī",
+        "Meaning":"Caller"
+    },
+    {
+        "Index":60,
+        "Arabic":"مَدْعُوٌّ",
+        "Name":"Madʿuww",
+        "Meaning":"Called Upon"
+    },
+    {
+        "Index":61,
+        "Arabic":"مُجِيبٌ",
+        "Name":"Mujīb",
+        "Meaning":"Answerer to the Call"
+    },
+    {
+        "Index":62,
+        "Arabic":"مُجَابٌ",
+        "Name":"Mujāb",
+        "Meaning":"Answered"
+    },
+    {
+        "Index":63,
+        "Arabic":"حَفِيٌّ",
+        "Name":"Ḥafiyy",
+        "Meaning":"Welcoming"
+    },
+    {
+        "Index":64,
+        "Arabic":"عَفُوٌّ",
+        "Name":"ʿAfuww",
+        "Meaning":"Much-Pardoning"
+    },
+    {
+        "Index":65,
+        "Arabic":"وَلِيٌّ",
+        "Name":"Waliyy",
+        "Meaning":"One Close to Allah"
+    },
+    {
+        "Index":66,
+        "Arabic":"حَقٌ",
+        "Name":"Ḥaqq",
+        "Meaning":"Truth"
+    },
+    {
+        "Index":67,
+        "Arabic":"قَوِيٌّ",
+        "Name":"Qawiyy",
+        "Meaning":"Mighty"
+    },
+    {
+        "Index":68,
+        "Arabic":"أَمِينٌ",
+        "Name":"Amīn",
+        "Meaning":"Trustworthy"
+    },
+    {
+        "Index":69,
+        "Arabic":"مَأْمُونٌ",
+        "Name":"Ma’mūn",
+        "Meaning":"Trusted"
+    },
+    {
+        "Index":70,
+        "Arabic":"كَرِيمٌ",
+        "Name":"Karīm",
+        "Meaning":"Noble"
+    },
+    {
+        "Index":71,
+        "Arabic":"مُكَرَّمٌ",
+        "Name":"Mukarram",
+        "Meaning":"Ennobled"
+    },
+    {
+        "Index":72,
+        "Arabic":"مَكِينٌ",
+        "Name":"Makīn",
+        "Meaning":"Unshakeable"
+    },
+    {
+        "Index":73,
+        "Arabic":"مَتِينٌ",
+        "Name":"Matīn",
+        "Meaning":"Firm"
+    },
+    {
+        "Index":74,
+        "Arabic":"مُبِينٌ",
+        "Name":"Mubīn",
+        "Meaning":"Evident, Clarifier"
+    },
+    {
+        "Index":75,
+        "Arabic":"مُؤَمِّلٌ",
+        "Name":"Mu’ammil",
+        "Meaning":"Hopeful"
+    },
+    {
+        "Index":76,
+        "Arabic":"وَصُولٌ",
+        "Name":"Waṣūl",
+        "Meaning":"Maintainer of Ties"
+    },
+    {
+        "Index":77,
+        "Arabic":"ذُو قُوَّةٍ",
+        "Name":"Dhū Quwwah",
+        "Meaning":"Possessor of Might"
+    },
+    {
+        "Index":78,
+        "Arabic":"ذُو حُرْمَةٍ",
+        "Name":"Dhū Ḥurmah",
+        "Meaning":"Possessor of Sanctity"
+    },
+    {
+        "Index":79,
+        "Arabic":"ذُو مَكَانَةٍ",
+        "Name":"Dhū Makānah",
+        "Meaning":"Possessor of a Mighty Station"
+    },
+    {
+        "Index":80,
+        "Arabic":"ذُو عِزٍّ",
+        "Name":"Dhū ʿIzz",
+        "Meaning":"Possessor of Glory"
+    },
+    {
+        "Index":81,
+        "Arabic":"ذُو فَضْلٍ",
+        "Name":"Dhū Faḍl",
+        "Meaning":"Possessor of Virtue"
+    },
+    {
+        "Index":82,
+        "Arabic":"مُطَاعٌ",
+        "Name":"Muṭāʿ",
+        "Meaning":"Obeyed"
+    },
+    {
+        "Index":83,
+        "Arabic":"مُطِيعٌ",
+        "Name":"Muṭīʿ",
+        "Meaning":"Obedient"
+    },
+    {
+        "Index":84,
+        "Arabic":"قَدَمُ صِدْقٍ",
+        "Name":"Qadamu Ṣidq",
+        "Meaning":"Sure Forerunner"
+    },
+    {
+        "Index":85,
+        "Arabic":"رَحْمَةٌ",
+        "Name":"Raḥmah",
+        "Meaning":"Mercy"
+    },
+    {
+        "Index":86,
+        "Arabic":"بُشْرَى",
+        "Name":"Bushrā",
+        "Meaning":"Glad Tidings"
+    },
+    {
+        "Index":87,
+        "Arabic":"غُوثٌ",
+        "Name":"Ghawth",
+        "Meaning":"Aid"
+    },
+    {
+        "Index":88,
+        "Arabic":"غَيْثٌ",
+        "Name":"Ghayth",
+        "Meaning":"Relief"
+    },
+    {
+        "Index":89,
+        "Arabic":"غِيَاثٌ",
+        "Name":"Ghiyāth",
+        "Meaning":"Succour"
+    },
+    {
+        "Index":90,
+        "Arabic":"نِعْمَةُ اللهِ",
+        "Name":"Niʿmatullāh",
+        "Meaning":"Allah’s Blessing"
+    },
+    {
+        "Index":91,
+        "Arabic":"هَدِيَّةُ اللهِ",
+        "Name":"Hadiyyatullāh",
+        "Meaning":"Allah’s Gift"
+    },
+    {
+        "Index":92,
+        "Arabic":"عُرْوَةٌ وُثْقَى",
+        "Name":"ʿUrwatun Wuthqā",
+        "Meaning":"Most Trusty Hold"
+    },
+    {
+        "Index":93,
+        "Arabic":"صِرَاطُ اللهِ",
+        "Name":"Ṣirāṭullāh",
+        "Meaning":"Path to Allah"
+    },
+    {
+        "Index":94,
+        "Arabic":"صِرَاطٌ مُسْتَقِيمٌ",
+        "Name":"Ṣirāṭun Mustaqīm",
+        "Meaning":"Straight Path"
+    },
+    {
+        "Index":95,
+        "Arabic":"ذِكْرُ اللهِ",
+        "Name":"Dhikrullāh",
+        "Meaning":"Remembrance of Allah"
+    },
+    {
+        "Index":96,
+        "Arabic":"سَيْفُ اللهِ",
+        "Name":"Sayfullāh",
+        "Meaning":"Sword of Allah"
+    },
+    {
+        "Index":97,
+        "Arabic":"حِزْبُ اللهِ",
+        "Name":"Ḥizbullāh",
+        "Meaning":"Party of Allah"
+    },
+    {
+        "Index":98,
+        "Arabic":"النَّجْمُ الثَّاقِبُ",
+        "Name":"An-Najmu th-thāqib",
+        "Meaning":"Shining Star"
+    },
+    {
+        "Index":99,
+        "Arabic":"مُصْطَفَى",
+        "Name":"Muṣṭafā",
+        "Meaning":"Chosen"
+    },
+    {
+        "Index":100,
+        "Arabic":"مُجْتَبَى",
+        "Name":"Mujtabā",
+        "Meaning":"Selected"
+    },
+    {
+        "Index":101,
+        "Arabic":"مُنْتَقَى",
+        "Name":"Muntaqā",
+        "Meaning":"Elect"
+    },
+    {
+        "Index":102,
+        "Arabic":"أُمِّيٌ",
+        "Name":"Ummiyy",
+        "Meaning":"Unlettered"
+    },
+    {
+        "Index":103,
+        "Arabic":"مُخْتَارٌ",
+        "Name":"Mukhtār",
+        "Meaning":"Preferred One"
+    },
+    {
+        "Index":104,
+        "Arabic":"أَجِيرٌ",
+        "Name":"Ajīr",
+        "Meaning":"Protector"
+    },
+    {
+        "Index":105,
+        "Arabic":"جَبَّارٌ",
+        "Name":"Jabbār",
+        "Meaning":"Rectifier"
+    },
+    {
+        "Index":106,
+        "Arabic":"أَبُو الْقَاسِمِ",
+        "Name":"Abu l-Qāsim",
+        "Meaning":"Father of Qasim"
+    },
+    {
+        "Index":107,
+        "Arabic":"أَبُو الطَّاهِرِ",
+        "Name":"Abu ṭ-Ṭāhir",
+        "Meaning":"Father of Tahir"
+    },
+    {
+        "Index":108,
+        "Arabic":"أَبُو الطَّيِّبِ",
+        "Name":"Abu ṭ-Ṭayyib",
+        "Meaning":"Father of Tayyib"
+    },
+    {
+        "Index":109,
+        "Arabic":"أَبُو إِبْرَاهِيمَ",
+        "Name":"Abū Ibrāhīm",
+        "Meaning":"Father of Ibrahim"
+    },
+    {
+        "Index":110,
+        "Arabic":"مُشَفَّعٌ",
+        "Name":"Mushaffaʿ",
+        "Meaning":"One Permitted to Intercede"
+    },
+    {
+        "Index":111,
+        "Arabic":"شَفِيعٌ",
+        "Name":"Shafīʿ",
+        "Meaning":"Intercessor"
+    },
+    {
+        "Index":112,
+        "Arabic":"صَالِحٌ",
+        "Name":"Ṣāliḥ",
+        "Meaning":"Righteous"
+    },
+    {
+        "Index":113,
+        "Arabic":"مُصْلِحٌ",
+        "Name":"Muṣliḥ",
+        "Meaning":"Rectifier"
+    },
+    {
+        "Index":114,
+        "Arabic":"مُهَيْمِنٌ",
+        "Name":"Muhaymin",
+        "Meaning":"Guardian"
+    },
+    {
+        "Index":115,
+        "Arabic":"صَادِقٌ",
+        "Name":"Ṣādiq",
+        "Meaning":"Truthful"
+    },
+    {
+        "Index":116,
+        "Arabic":"مُصَدَّقٌ",
+        "Name":"Muṣaddaq",
+        "Meaning":"Confirmed"
+    },
+    {
+        "Index":117,
+        "Arabic":"صِدْقٌ",
+        "Name":"Ṣidq",
+        "Meaning":"Truthfulness"
+    },
+    {
+        "Index":118,
+        "Arabic":"سَيِّدُ الْمُرْسَلِينَ",
+        "Name":"Sayyidu l-Mursalīn",
+        "Meaning":"Master of the Emissaries"
+    },
+    {
+        "Index":119,
+        "Arabic":"إِمَامُ الْمُتَّقِينَ",
+        "Name":"Imāmu l-Muttaqīn",
+        "Meaning":"Leader of the God-fearing"
+    },
+    {
+        "Index":120,
+        "Arabic":"قَائِدُ الْغُرِّ الْمُحَجَّلِينَ",
+        "Name":"Qā’idu l-Ghurri l-Muḥajjalīn",
+        "Meaning":"Leader of the Brightly Shining Ones"
+    },
+    {
+        "Index":121,
+        "Arabic":"خَلِيلُ الرَّحْمٰنِ",
+        "Name":"Khalīlu r-Raḥmān",
+        "Meaning":"Intimate Friend of the All-Merciful"
+    },
+    {
+        "Index":122,
+        "Arabic":"بَرٌّ",
+        "Name":"Barr",
+        "Meaning":"Dutiful"
+    },
+    {
+        "Index":123,
+        "Arabic":"مَبَرٌّ",
+        "Name":"Mabarr",
+        "Meaning":"Fulfiller of Oaths"
+    },
+    {
+        "Index":124,
+        "Arabic":"وَجِيهٌ",
+        "Name":"Wajīh",
+        "Meaning":"Eminent"
+    },
+    {
+        "Index":125,
+        "Arabic":"نَصِيحٌ",
+        "Name":"Naṣīḥ",
+        "Meaning":"Sincere Well-Wisher"
+    },
+    {
+        "Index":126,
+        "Arabic":"نَاصِحٌ",
+        "Name":"Nāṣiḥ",
+        "Meaning":"Sincere Advisor"
+    },
+    {
+        "Index":127,
+        "Arabic":"وَكِيلٌ",
+        "Name":"Wakīl",
+        "Meaning":"Entrusted"
+    },
+    {
+        "Index":128,
+        "Arabic":"مُتَوَكِّلٌ",
+        "Name":"Mutawwakil",
+        "Meaning":"Wholly Reliant on Allah"
+    },
+    {
+        "Index":129,
+        "Arabic":"كَفِيلٌ",
+        "Name":"Kafīl",
+        "Meaning":"Guarantor"
+    },
+    {
+        "Index":130,
+        "Arabic":"شَفِيقٌ",
+        "Name":"Shafīq",
+        "Meaning":"Tenderhearted"
+    },
+    {
+        "Index":131,
+        "Arabic":"مُقِيمُ السُّنَّةِ",
+        "Name":"Muqīmu s-Sunnah",
+        "Meaning":"Upholder of the Sunnah"
+    },
+    {
+        "Index":132,
+        "Arabic":"مُقدَّسٌ",
+        "Name":"Muqaddas",
+        "Meaning":"Pure and Inviolate"
+    },
+    {
+        "Index":133,
+        "Arabic":"رُوحُ الْقُدُسِ",
+        "Name":"Rūḥu l-Qudus",
+        "Meaning":"Pure Spirit"
+    },
+    {
+        "Index":134,
+        "Arabic":"رُوحُ الْحَقِّ",
+        "Name":"Rūḥu l-Ḥaqq",
+        "Meaning":"Spirit of Truth"
+    },
+    {
+        "Index":135,
+        "Arabic":"رُوحُ الْقِسْطِ",
+        "Name":"Rūḥu l-Qisṭ",
+        "Meaning":"Spirit of Justice"
+    },
+    {
+        "Index":136,
+        "Arabic":"كَافٍ",
+        "Name":"Kāfī",
+        "Meaning":"Sufficer"
+    },
+    {
+        "Index":137,
+        "Arabic":"مُكْتَفٍ",
+        "Name":"Muktafī",
+        "Meaning":"Contented"
+    },
+    {
+        "Index":138,
+        "Arabic":"بَالِغٌ",
+        "Name":"Bāligh",
+        "Meaning":"Accomplished"
+    },
+    {
+        "Index":139,
+        "Arabic":"مُبَلِّغٌ",
+        "Name":"Muballigh",
+        "Meaning":"Conveyor"
+    },
+    {
+        "Index":140,
+        "Arabic":"شَافٍ",
+        "Name":"Shāfī",
+        "Meaning":"Healer"
+    },
+    {
+        "Index":141,
+        "Arabic":"وَاصِلٌ",
+        "Name":"Wāṣil",
+        "Meaning":"Attainer"
+    },
+    {
+        "Index":142,
+        "Arabic":"مَوْصُولٌ",
+        "Name":"Mawṣūl",
+        "Meaning":"Connected"
+    },
+    {
+        "Index":143,
+        "Arabic":"سَابِقٌ",
+        "Name":"Sābiq",
+        "Meaning":"Forerunner"
+    },
+    {
+        "Index":144,
+        "Arabic":"سَائِقٌ",
+        "Name":"Sā’iq",
+        "Meaning":"Driver"
+    },
+    {
+        "Index":145,
+        "Arabic":"هَادٍ",
+        "Name":"Hādī",
+        "Meaning":"Guide"
+    },
+    {
+        "Index":146,
+        "Arabic":"مُهْدٍ",
+        "Name":"Muhdi",
+        "Meaning":"Guider"
+    },
+    {
+        "Index":147,
+        "Arabic":"مُقَدَّمٌ",
+        "Name":"Muqaddam",
+        "Meaning":"Foremost"
+    },
+    {
+        "Index":148,
+        "Arabic":"عَزِيزٌ",
+        "Name":"ʿAzīz",
+        "Meaning":"Mighty"
+    },
+    {
+        "Index":149,
+        "Arabic":"فَاضِلٌ",
+        "Name":"Fāḍil",
+        "Meaning":"Outstanding"
+    },
+    {
+        "Index":150,
+        "Arabic":"مُفَضَّلٌ",
+        "Name":"Mufaḍḍal",
+        "Meaning":"Favoured"
+    },
+    {
+        "Index":151,
+        "Arabic":"فَاتِحٌ",
+        "Name":"Fātiḥ",
+        "Meaning":"Conqueror"
+    },
+    {
+        "Index":152,
+        "Arabic":"مِفْتَاحٌ",
+        "Name":"Miftāḥ",
+        "Meaning":"Key"
+    },
+    {
+        "Index":153,
+        "Arabic":"مِفْتَاحُ الرَّحْمَةِ",
+        "Name":"Miftāḥu r-Raḥmah",
+        "Meaning":"Key to Mercy"
+    },
+    {
+        "Index":154,
+        "Arabic":"مِفْتَاحُ الْجَنَّةِ",
+        "Name":"Miftāḥu l-Jannah",
+        "Meaning":"Key to the Garden"
+    },
+    {
+        "Index":155,
+        "Arabic":"عَلَمُ الْإِيمَانِ",
+        "Name":"ʿAlamu l-Īmān",
+        "Meaning":"Sign of Faith"
+    },
+    {
+        "Index":156,
+        "Arabic":"عَلَمُ الْيَقِينِ",
+        "Name":"ʿAlamu l-Yaqīn",
+        "Meaning":"Sign of Certainty"
+    },
+    {
+        "Index":157,
+        "Arabic":"دَلِيلُ الْخَيْرَاتِ",
+        "Name":"Dalīlu l-Khayrāt",
+        "Meaning":"Guide to Benefits"
+    },
+    {
+        "Index":158,
+        "Arabic":"مُصَحِّحُ الْحَسَنَاتِ",
+        "Name":"Musaḥḥihu l-Ḥasanāt",
+        "Meaning":"Verifier of Good Deeds"
+    },
+    {
+        "Index":159,
+        "Arabic":"مُقِيلُ الْعَثَرَاتِ",
+        "Name":"Muqīlu l-ʿAtharāt",
+        "Meaning":"Pardoner of Errors"
+    },
+    {
+        "Index":160,
+        "Arabic":"صَفُوحٌ عَنِ الزَّلَّاتِ",
+        "Name":"Ṣafūḥun ʿani z-Zallāt",
+        "Meaning":"Overlooker of Lapses"
+    },
+    {
+        "Index":161,
+        "Arabic":"صَاحِبُ الشَّفَاعَةِ",
+        "Name":"Ṣaḥību sh-Shafāʿah",
+        "Meaning":"Possessor of Intercession"
+    },
+    {
+        "Index":162,
+        "Arabic":"صَاحِبُ الْمَقَامِ",
+        "Name":"Ṣāḥibu l-Maqām",
+        "Meaning":"Possessor of the Lofty Station"
+    },
+    {
+        "Index":163,
+        "Arabic":"صَاحِبُ الْقَدَمِ",
+        "Name":"Ṣāḥibu l-Qadam",
+        "Meaning":"Possessor of Precedence"
+    },
+    {
+        "Index":164,
+        "Arabic":"مَخْصُوصٌ بِالْعِزِّ",
+        "Name":"Makhṣūṣ bi-l ʿIzz",
+        "Meaning":"One Singled out for Glory"
+    },
+    {
+        "Index":165,
+        "Arabic":"مَخْصُوصٌ بِالْمَجْدِ",
+        "Name":"Makhṣūṣ bi-l-Majd",
+        "Meaning":"One Distinguished by Splendour"
+    },
+    {
+        "Index":166,
+        "Arabic":"مَخْصُوصٌ بِالشَّرَفِ",
+        "Name":"Makhṣūṣ bi-sh-Sharaf",
+        "Meaning":"One Distinguished by Nobility"
+    },
+    {
+        "Index":167,
+        "Arabic":"صَاحِبُ الْوَسِيلَةِ",
+        "Name":"Ṣāḥibu l-Wasīlah",
+        "Meaning":"Possessor of Privileged Access"
+    },
+    {
+        "Index":168,
+        "Arabic":"صَاحِبُ السَّيْفِ",
+        "Name":"Ṣāḥibu s-Sayf",
+        "Meaning":"Possessor of the Sword"
+    },
+    {
+        "Index":169,
+        "Arabic":"صَاحِبُ الْفَضِيلَةِ",
+        "Name":"Ṣāḥību l-Faḍīlah",
+        "Meaning":"Possessor of Virtue"
+    },
+    {
+        "Index":170,
+        "Arabic":"صَاحِبُ الْإِزَارِ",
+        "Name":"Ṣāḥibu l-Izār",
+        "Meaning":"Wearer of the Sarong"
+    },
+    {
+        "Index":171,
+        "Arabic":"صَاحِبُ الْحُجَّةِ",
+        "Name":"Ṣāḥibu l-Ḥujjah",
+        "Meaning":"Possessor of Proof"
+    },
+    {
+        "Index":172,
+        "Arabic":"صَاحِبُ السُّلْطَانِ",
+        "Name":"Ṣāḥibu s-Sulṭān",
+        "Meaning":"Possessor of Authority"
+    },
+    {
+        "Index":173,
+        "Arabic":"صَاحِبُ الرِّدَاءِ",
+        "Name":"Ṣāḥibu r-Ridā’",
+        "Meaning":"Wearer of the Mantle"
+    },
+    {
+        "Index":174,
+        "Arabic":"صَاحِبُ الدَّرَجَةِ الرَّفِيعَةِ",
+        "Name":"Ṣāḥibu d-Darajati r-Rafīʿah",
+        "Meaning":"Possessor of Exalted Rank"
+    },
+    {
+        "Index":175,
+        "Arabic":"صَاحِبُ التَّاجِ",
+        "Name":"Ṣāḥibu t-Tāj",
+        "Meaning":"Wearer of the Crown or Turban"
+    },
+    {
+        "Index":176,
+        "Arabic":"صَاحِبُ الْمِغْفَرِ",
+        "Name":"Ṣāḥibu l-Mighfar",
+        "Meaning":"Wearer of the Helmet"
+    },
+    {
+        "Index":177,
+        "Arabic":"صَاحِبُ اللِّوَاءِ",
+        "Name":"Ṣāḥibu l-Liwā’",
+        "Meaning":"Possessor of the Banner"
+    },
+    {
+        "Index":178,
+        "Arabic":"صَاحِبُ الْمِعْرَاجِ",
+        "Name":"Ṣāḥibu l-Miʿrāj",
+        "Meaning":"Possessor of the Ascension"
+    },
+    {
+        "Index":179,
+        "Arabic":"صَاحِبُ الْقَضِيبِ",
+        "Name":"Ṣāḥibu l-Qaḍīb",
+        "Meaning":"Possessor of the Staff"
+    },
+    {
+        "Index":180,
+        "Arabic":"صَاحِبُ الْبُرَاقِ",
+        "Name":"Ṣāḥibu l-Burāq",
+        "Meaning":"Rider of the Buraq"
+    },
+    {
+        "Index":181,
+        "Arabic":"صَاحِبُ الْخَاتَمِ",
+        "Name":"Ṣāḥibu l-Khātam",
+        "Meaning":"Possessor of the Seal of Prophethood"
+    },
+    {
+        "Index":182,
+        "Arabic":"صَاحِبُ الْعَلَامَةِ",
+        "Name":"Ṣāḥibu l-ʿAlāmah",
+        "Meaning":"Possessor of the Mark"
+    },
+    {
+        "Index":183,
+        "Arabic":"صَاحِبُ الْبُرْهَانِ",
+        "Name":"Ṣāḥibu l-Burhān",
+        "Meaning":"Possessor of Proof"
+    },
+    {
+        "Index":184,
+        "Arabic":"صَاحِبُ الْبَيَانِ",
+        "Name":"Ṣāḥibu l-Bayān",
+        "Meaning":"Possessor of Elucidation"
+    },
+    {
+        "Index":185,
+        "Arabic":"فَصِيحُ اللِّسَانِ",
+        "Name":"Faṣīḥu l-Lisān",
+        "Meaning":"Eloquent of Tongue"
+    },
+    {
+        "Index":186,
+        "Arabic":"مُطَهَّرُ الْجَنَانِ",
+        "Name":"Muṭahharu l-Janān",
+        "Meaning":"Purified of Soul"
+    },
+    {
+        "Index":187,
+        "Arabic":"رَؤُوفٌ",
+        "Name":"Raūf",
+        "Meaning":"Gentle or Kindly"
+    },
+    {
+        "Index":188,
+        "Arabic":"رَحِيمٌ",
+        "Name":"Raḥīm",
+        "Meaning":"Merciful"
+    },
+    {
+        "Index":189,
+        "Arabic":"اُذُنُ خَيْرٍ",
+        "Name":"Udhunu Khayr",
+        "Meaning":"Hearer of Good"
+    },
+    {
+        "Index":190,
+        "Arabic":"صَحِيحُ الْإِسْلَامِ",
+        "Name":"Ṣaḥīḥu l-Islām",
+        "Meaning":"Sound in Islam"
+    },
+    {
+        "Index":191,
+        "Arabic":"سَيِّدُ الْكَوْنَيْنِ",
+        "Name":"Sayyidu l-Kawnayn",
+        "Meaning":"Master of Both Worlds"
+    },
+    {
+        "Index":192,
+        "Arabic":"عَيْنُ النَّعِيمِ",
+        "Name":"ʿAynu n-Naʿīm",
+        "Meaning":"Source of Bliss"
+    },
+    {
+        "Index":193,
+        "Arabic":"عَيْنُ الْغُرِّ",
+        "Name":"ʿAynu l-Ghurr",
+        "Meaning":"Superior of the Enlightened Ones"
+    },
+    {
+        "Index":194,
+        "Arabic":"سَعْدُ اللهِ",
+        "Name":"Saʿdullāh",
+        "Meaning":"Allah’s Felicity for Creation"
+    },
+    {
+        "Index":195,
+        "Arabic":"سَعْدُ الْخَلْقِ",
+        "Name":"Saʿdu l-Khalq",
+        "Meaning":"Felicity of Creation"
+    },
+    {
+        "Index":196,
+        "Arabic":"خَطِيبُ الْأُمَمِ",
+        "Name":"Khaṭību l-Umam",
+        "Meaning":"Speaker Addressing All Nations"
+    },
+    {
+        "Index":197,
+        "Arabic":"عَلَمُ الْهُدَى",
+        "Name":"ʿAlamu l-Hudā",
+        "Meaning":"Banner of Guidance"
+    },
+    {
+        "Index":198,
+        "Arabic":"كَاشِفُ الْكُرَبِ",
+        "Name":"Kāshifu l-Kurab",
+        "Meaning":"Dispeller of Fears"
+    },
+    {
+        "Index":199,
+        "Arabic":"رَافِعُ الرُّتَبِ",
+        "Name":"Rāfiʿu r-Rutab",
+        "Meaning":"Raiser of Ranks"
+    },
+    {
+        "Index":200,
+        "Arabic":"عِزُّ الْعَرَبِ",
+        "Name":"ʿIzzu l-ʿArab",
+        "Meaning":"Glory of the Arabs"
+    },
+    {
+        "Index":201,
+        "Arabic":"صَاحِبُ الْفَرَجِ",
+        "Name":"Ṣāḥibu l-Faraj",
+        "Meaning":"Bringer of Relief"
+    },
+    {
+        "Index":202,
+        "Arabic":"كَرِيمُ الْمَخْرَجِ",
+        "Name":"Karīmu l-Makhraj",
+        "Meaning":"Most Noble in Lineage"
+    }
+]
